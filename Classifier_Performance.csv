@@ -1,0 +1,12 @@
+Classifier,%pct correct for ‘+,Number of + labels,%pct correct for ‘-,Number of - labels
+Logistic Regression,0,20,0,0
+KNN (k=5),55.55555555555556,9,45.45454545454545,11
+Naïve Bayesian,66.66666666666666,9,54.54545454545454,11
+k-means (k=3),37.5,8,25.0,12
+Linear Regression,87.5,8,66.66666666666666,12
+Decision Tree (Entropy),70.0,10,60.0,10
+SVM (Linear),42.857142857142854,7,0.0,3
+SVM (Radial basis function),33.33333333333333,6,0.0,4
+Naive Stratergy,60.0,10,50.0,10
+Moving Average,100.0,4,56.25,16
+Bollinger Band,83.33333333333334,6,57.14285714285714,14
